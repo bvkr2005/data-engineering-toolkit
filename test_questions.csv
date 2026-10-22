@@ -1,0 +1,41 @@
+question_id,question,gold_id,type
+Q01,How can a SPARQL-style graph query language let you build groups of related entities and sets of transitive paths as nodes that can be saved and reused in later queries?,1211.5817,answerable
+Q02,Which approach compresses noisy floating-point sensor or simulation data by keeping statistical similarity instead of minimizing Euclidean distance?,1911.06980,answerable
+Q03,How can the answers of a chatbot be enriched and fact-checked using many linked open data knowledge graphs?,2304.05774,answerable
+Q04,How can you predict the top-k events most likely to occur next in a stream when the causes are cyclic rather than a clean acyclic network?,1508.06976,answerable
+Q05,How can the blocking step in entity resolution be made to work on a new domain without training on that domain first?,2404.14831,answerable
+Q06,How does a normalisation pipeline for decades of university student records merge duplicate person identifiers while keeping an audit trail?,2512.02936,answerable
+Q07,How can a production ML pipeline detect a corrupted data partition and block retraining before model accuracy drops?,2303.06094,answerable
+Q08,"How can large language models normalize a relational schema automatically, using one model to generate and another to verify?",2508.17693,answerable
+Q09,How does a single analytic system run queries across several data models without the communication cost of coordinating separate databases?,2508.02508,answerable
+Q10,Which data layout speeds up vector similarity search by scanning dimension by dimension over many vectors at a time?,2503.04422,answerable
+Q11,"How can an index for data series keep similar series next to each other when sorted, so it can be bulk loaded?",2006.11474,answerable
+Q12,How can a Bloom-filter style structure answer range queries as well as point queries?,2207.04789,answerable
+Q13,How can skewed join keys be handled when computing a multiway join in one MapReduce round?,1512.03921,answerable
+Q14,How can an ETL process handle early-arriving data and keep the change history for fast-changing transaction data?,1409.1636,answerable
+Q15,How can an LLM-based advisor recommend database indexes without any training examples?,2508.16044,answerable
+Q16,How can the slow training phase of machine-learning cardinality estimators be sped up?,2005.09367,answerable
+Q17,"For LLM text-to-SQL, what matters more: giving the model a well-structured schema, or meaningful table and column names?",2608.20356,answerable
+Q18,How can a density-based stream clustering algorithm avoid exact summary statistics by using count-min sketches and Bloom filters?,1612.02701,answerable
+Q19,Is minimizing suppressed entries for k-anonymity still hard to approximate when the values are binary and groups only need three rows?,0707.0421,answerable
+Q20,How can driving routes be computed by following historical vehicle trajectories instead of building a road network graph?,2411.01325,answerable
+Q21,How can privacy algorithms for counting queries be built from a small set of reusable operator classes?,1808.03555,answerable
+Q22,Which survey explains why textbook join processing is suboptimal and describes join algorithms with provable worst-case optimal runtime?,1310.3314,answerable
+Q23,"How can discord mining on multidimensional time series run in time that does not depend on the number of dimensions, and what speedup did it reach?",2311.03393,answerable
+Q24,By how much did the surrogate commuter dataset reduce the gap between aggregated and true travel totals in Australian census data?,1808.09267,answerable
+Q25,What property of flash SSDs does a multi-version key-value store exploit to keep several versions of a key cheaply?,1912.00580,answerable
+Q26,What kind of data warehouse is proposed to bring multi-source cancer data together for doctors and executive managers?,1211.4371,answerable
+Q27,"What well-known problem is data placement reduced to, and how does computing time compare with an integer program solver on TPC-DS?",1312.0285,answerable
+Q28,"How is privacy defined for sensitive spatiotemporal events, such as visiting a hospital in the last week, by extending differential privacy?",1907.10814,answerable
+Q29,Which index lets users explore density-based clustering by changing either epsilon or the minimum points parameter and still get exact clusters?,2304.04817,answerable
+Q30,For which kind of monoids is acyclicity of the schema both necessary and sufficient for local-to-global consistency of K-relations?,2312.02023,answerable
+U01,"How can cardinality estimation for join queries combine join histograms with learned single-table distributions in a factor graph, without training on executed query workloads?",,unanswerable
+U02,"Which data structure answers exact multi-set membership queries with only two hash computations per lookup, using a binary tree of set separators?",,unanswerable
+U03,"Which interactive visualization framework helps explorers find experts or form discussion groups from user data that combines demographics with actions like ratings, and recommends the next exploration step?",,unanswerable
+U04,"How can a data warehouse combine drone imagery, LiDAR point clouds and paper records to train a YOLO object-detection model for forest monitoring?",,unanswerable
+U05,How can sampling be used to estimate the size of provenance sketches so the best partitioning attribute is chosen for data skipping?,,unanswerable
+U06,"Which benchmark competition asks participants to losslessly compress tens of thousands of SARS-CoV-2 genome sequences, and what does it say the shortest description represents?",,unanswerable
+U07,"How can all strongly correlated item pairs be mined from a transaction database using an FP-tree, without generating and testing candidate pairs?",,unanswerable
+U08,How can a learned database component adapt to concept drift using a dynamic context memory instead of retraining?,,unanswerable
+U09,"How does a system add probabilistic pay-as-you-go data cleaning on top of any JDBC database engine, using operators called Lenses?",,unanswerable
+U10,How can feasible vehicles for ride-sharing trip requests be pruned efficiently by representing time constraints with circles and ellipses?,,unanswerable
